@@ -2,5 +2,4 @@
 
 
 ## Getting Started
-
-    ![image](login.png)
+   ![image](login.png)
